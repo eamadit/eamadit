@@ -20,9 +20,10 @@ https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/public-resolvers.m
 
 4. Build a liberal decentralized and collaborative open source search engine model without discriminatory blacklist
 
-Best regards,
-
 5. Build an exploit based on security red flags which allows to shutdown the television network
+
+
+Best regards,
 
 
 MANTELL APICAL
