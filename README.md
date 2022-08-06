@@ -23,3 +23,5 @@ MANTELL APICAL
 https://eamadit.com/ (TLS 1.3 + preload list)
 info@eamadit.com (TLS 1.2 or 1.3 ports 993/465)
 +14384484221
+
+https://web.archive.org/web/20220806124227/https://github.com/eamadit
