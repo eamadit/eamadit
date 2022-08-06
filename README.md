@@ -1,5 +1,6 @@
 Good Day,
 
+
 My name is eamadit, I would like to find collaborators for the following projects:
 
 1. Build a new open source decentralized non-pyramidal DNS PKI based on Wireguard
@@ -17,11 +18,17 @@ https://www.instagram.com/p/CgRoJDNNxm_/?igshid=NmZiMzY2Mjc=
 
 https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/public-resolvers.md
 
+
 Best regards,
 
+
 MANTELL APICAL
+
 https://eamadit.com/ (TLS 1.3 + preload list)
+
 info@eamadit.com (TLS 1.2 or 1.3 ports 993/465)
+
 +14384484221
+
 
 https://web.archive.org/web/20220806124227/https://github.com/eamadit
