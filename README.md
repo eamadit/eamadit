@@ -18,6 +18,7 @@ https://www.instagram.com/p/CgRoJDNNxm_/?igshid=NmZiMzY2Mjc=
 
 https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4792.pdf
 
+https://www.vigilsec.com/documents.html
 
 https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/public-resolvers.md
 
