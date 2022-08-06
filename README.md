@@ -22,7 +22,7 @@ https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/public-resolvers.m
 
 5. Build exploits based on security red flags which allows to shutdown the television network
 
-6. Build exploits which allows to destroy AI-diven cyberattacks on the internet
+6. Build exploits which allows to destroy AI-driven cyberattack hardware and software on the internet
 
 
 Best regards,
