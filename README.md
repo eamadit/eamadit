@@ -18,7 +18,7 @@ https://www.instagram.com/p/CgRoJDNNxm_/?igshid=NmZiMzY2Mjc=
 
 https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/public-resolvers.md
 
-4. Build a liberal open source search engine without discriminatory blacklist
+4. Build a liberal decentralized open source search engine without discriminatory blacklist
 
 Best regards,
 
