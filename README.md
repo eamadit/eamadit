@@ -14,7 +14,7 @@ https://web.archive.org/web/20220806091213/https://security.stackexchange.com/qu
 
 https://www.instagram.com/p/CgRoJDNNxm_/?igshid=NmZiMzY2Mjc=
 
-3. Publish or reference a guide for building a public resolver implementing the SDNS protocol
+3. Publish or reference a guide for building a public resolver implementing the SDNS (SDNS Secure Data Network System) protocol
 
 https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4792.pdf
 
