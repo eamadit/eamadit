@@ -4,6 +4,7 @@ My name is eamadit, I would like to find collaborators for the following project
 
 1. Build a new open source decentralized non-pyramidal DNS PKI based on Wireguard
 https://legacktem.com/wiki/pmwiki.php?n=Main.RFC08032022
+
 https://web.archive.org/web/20220806091213/https://security.stackexchange.com/questions/263945/can-you-liberal-guys-help-me-on-my-decentralized-and-non-pyramidal-dns-pki-secur
 
 
