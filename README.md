@@ -26,6 +26,9 @@ https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/public-resolvers.m
 
 7. Build an open source incorruptible views/listenings counter for streaming platforms.
 
+https://t.me/legacktemitsecurity/1724
+
+
 Best regards,
 
 
