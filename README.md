@@ -22,6 +22,8 @@ https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/public-resolvers.m
 
 Best regards,
 
+5. Build an exploit based on security red flags which allows to shutdown the television network
+
 
 MANTELL APICAL
 
