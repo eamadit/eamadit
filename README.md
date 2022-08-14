@@ -1,7 +1,7 @@
 Good Day,
 
 
-My name is eamadit, I would like to find collaborators for the following projects:
+My name is Camille Planat, I would like to find collaborators for the following projects:
 
 1. Build a new open source decentralized and collaborative non-pyramidal DNS PKI model based on Wireguard
 
@@ -38,7 +38,7 @@ https://t.me/legacktemitsecurity/1724
 Best regards,
 
 
-MANTELL APICAL
+CAMILLE PLANAT
 
 https://eamadit.com/ (TLS 1.3 + preload list)
 
