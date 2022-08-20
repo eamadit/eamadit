@@ -34,6 +34,10 @@ https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/public-resolvers.m
 
 https://t.me/legacktemitsecurity/1724
 
+8. Build a demodulation circuit for the Grand Puppet Show. Proof of concept:
+The gamma ray probe output voltage is tolerated by the HackRf so you only need a BNC/SMA adapter to connect it together. Plug the SDR to the computer and start building your demodulation circuit with GNURadio in order to prepare yourself for the Grand Puppet Show: https://t.me/legacktemoffers/1170
+
+9. Check compatibility issues with the drivers included in the different available GNURadio builds and VMs.
 
 Best regards,
 
