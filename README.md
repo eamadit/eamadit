@@ -5,6 +5,8 @@ My name is Camille Planat, I would like to find collaborators for the following 
 
 1. Build a new open source decentralized and collaborative non-pyramidal DNS PKI model based on Wireguard
 
+https://github.com/eamadit/Real-world-DNS-PKI
+
 https://legacktem.com/wiki/pmwiki.php?n=Main.RFC08032022
 
 https://web.archive.org/web/20220806220806/https://security.stackexchange.com/questions/263945/can-you-liberal-guys-help-me-on-my-decentralized-and-non-pyramidal-dns-pki-secur
@@ -16,13 +18,7 @@ https://web.archive.org/web/20220806091213/https://security.stackexchange.com/qu
 
 https://www.instagram.com/p/CgRoJDNNxm_/?igshid=NmZiMzY2Mjc=
 
-3. Publish or reference a guide for building a public resolver implementing the SDNS (SDNS Secure Data Network System) protocol
-
-https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir4792.pdf
-
-https://www.vigilsec.com/documents.html
-
-https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/public-resolvers.md
+3. Build an open source streaming platform with real number of views which remunerates content creators, the number of views will only be accessible to content creators for their content.
 
 4. Build a liberal decentralized and collaborative open source search engine model without discriminatory blacklist
 
