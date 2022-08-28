@@ -7,12 +7,6 @@ My name is Camille Planat, I would like to find collaborators for the following 
 
 https://github.com/eamadit/Real-world-DNS-PKI
 
-https://legacktem.com/wiki/pmwiki.php?n=Main.RFC08032022
-
-https://web.archive.org/web/20220806220806/https://security.stackexchange.com/questions/263945/can-you-liberal-guys-help-me-on-my-decentralized-and-non-pyramidal-dns-pki-secur
-
-https://web.archive.org/web/20220806091213/https://security.stackexchange.com/questions/263945/can-you-liberal-guys-help-me-on-my-decentralized-and-non-pyramidal-dns-pki-secur
-
 
 2. Build an open source VPS hosting server architecture model in order to offer VPS hosting with shared IPs, management interface secured with authenticator and recovery interface secured with emails and/or phone numbers
 
