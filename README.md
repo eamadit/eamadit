@@ -18,7 +18,9 @@ https://www.instagram.com/p/CgRoJDNNxm_/?igshid=NmZiMzY2Mjc=
 
 5. Build exploits based on security red flags which allows to shutdown the television network
 
-6. Build exploits which allows to destroy AI-driven cyberattack hardware and software on the internet. A cyberattack is not only a computer attack, it is a cybernetic attack, there are also social engineering aspects mostly driven by satellite-based phonon laser mind control which simulates brain reading. O3B satellites are powered with solid-state amplifiers, which probably benefits from the scientifically established overunity.
+6. Build exploits which allows to destroy AI-driven cyberattack hardware and software on the internet. A cyberattack is not only a computer attack, it is a cybernetic attack, there are also social engineering aspects mostly driven by satellite-based phonon laser mind control which simulates brain reading.
+
+https://www.academia.edu/85729689/Blue_Beam_Project_dismantled
 
 7. Build an open source incorruptible views/listenings counter for streaming platforms and web pages
 
