@@ -33,7 +33,7 @@ https://t.me/legacktemoffers/1170
 
 9. Check compatibility issues with the drivers included in the different available GNURadio builds and VMs.
 
-10. Start a new PGP-aware secure Linux distribution with a unique package manager secured with PGP and a unique abstraction layer built on top of a unique scalable separation kernel hypervisor like LynxSecure compatible with one or several AMD, Intel and ARM devices. The kernel shall be written in assembly and its functions shall be limited to the functions offered by the hardware. The kernel functions shall then be classified according to the hardware capabilities in order for the separation kernel creation tool to offer different separation options.
+10. Start a new PGP-aware secure Linux distribution with a unique package manager secured with PGP and a unique abstraction layer built on top of a unique scalable separation kernel hypervisor like LynxSecure compatible with one or several devices including QDCA microcircuits. The kernel shall be written in assembly and its functions shall be limited to the functions offered by the hardware. The kernel functions shall then be classified according to the hardware capabilities in order for the separation kernel creation tool to offer different separation options.
 
 Best regards,
 
