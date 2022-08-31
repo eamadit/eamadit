@@ -33,7 +33,7 @@ https://t.me/legacktemoffers/1170
 
 9. Check compatibility issues with the drivers included in the different available GNURadio builds and VMs.
 
-10. Start a new PGP-aware secure Linux distribution with a unique package manager secured with PGP and an abstraction layer built on top of a scalable separation kernel compatible with one or several AMD, Intel and ARM devices.
+10. Start a new PGP-aware secure Linux distribution with a unique package manager secured with PGP and a unique abstraction layer built on top of a unique scalable separation kernel compatible with one or several AMD, Intel and ARM devices.
 
 Best regards,
 
