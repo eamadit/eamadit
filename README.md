@@ -7,7 +7,7 @@ I am an entrepreneur, environmentalist, privacy activist and researcher.
 I founded a business called Eamadit in 2015.
 
 
-I need money to hire a team of specialists in public subsidy application to raise funds to develop a free open source digital democracy tool, a highly secure free open source operating system after a study of assembly and C interface(s), with available managed string libraries:
+I need money to hire a team of specialists in public subsidy application to raise funds to develop a free open source digital democracy tool and a highly secure free open source operating system after a study of assembly and C interface(s), with available managed string libraries:
 
 https://apps.dtic.mil/sti/tr/pdf/ADA528573.pdf
 
