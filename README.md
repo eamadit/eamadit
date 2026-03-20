@@ -13,7 +13,7 @@ I need money to hire a team of specialists in public subsidy application to rais
 https://apps.dtic.mil/sti/tr/pdf/ADA528573.pdf
 
 
-Software is not sold, it is shared because it is immaterial: it is knowledge. Using it does not restrict its access to others like for a physical good; on the contrary, the value of knowledge increases with sharing. If you want software to work, it needs to be widely shared and used with standardized documented practices.
+Software is not sold, it is shared because it is immaterial: it is knowledge. Using it does not restrict its access to others like for a physical good; on the contrary, the value of knowledge increases with sharing. If you want software to work, it needs to be widely shared and used with documented practices that adhere to pedagogical standards.
 
 
 I am looking for angel investors for various projects regarding retail sale of hardened FreeBSD and Fedora Linux clients, electromagnetic emanations counterintelligence, free open source PLM, free open source GNURadio-driven RHIC-EDOM for porn AI and personal development, antigravity flying vehicles, conversion of combustion engines to hydrogen, overunity self-powered generators and industrial alchemical gold, silver and copper production.
