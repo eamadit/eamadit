@@ -1,7 +1,20 @@
 Good Day,
 
 
-My name is Camille Planat, I would like to find collaborators for the following projects:
+I am an entrepreneur, environmentalist, privacy activist and researcher.
+
+
+I founded a business called Eamadit in 2015.
+
+
+I need money to hire a team of specialists in public subsidy application to raise funds to develop a free open source digital democracy tool, a highly secure free open source operating system after a study of assembly and C interface(s), with available managed string libraries and a free open source search engine.
+
+
+I am looking for angel investors for various projects regarding retail sale of hardened FreeBSD and Fedora Linux clients, electromagnetic emanations counterintelligence, free open source PLM, free open source GNURadio-driven RHIC-EDOM for porn AI and personal development, antigravity flying vehicles, conversion of combustion engines to hydrogen, overunity self-powered generators and industrial alchemical gold, silver and copper production.
+
+
+I would also like to find collaborators for the following projects:
+
 
 1. Build a new open source decentralized and collaborative non-pyramidal DNS PKI model based on Wireguard:
 
@@ -32,6 +45,11 @@ Best regards,
 
 CAMILLE PLANAT
 
+
+@camilleplanat @eamaditdotcom on Telegram
+
 https://youtube.com/@eamadit
+
+https://youtube.com/@mantellapical
 
 @eamaditdotcom on Telegram
