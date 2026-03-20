@@ -19,7 +19,7 @@ I would also like to find collaborators for the following projects:
 
 1. Build a new open source decentralized and collaborative non-pyramidal DNS PKI model based on Wireguard:
 
-https://mantellapical.blogspot.com/2025/12/rfc-08032022.html
+https://github.com/eamadit/Real-world-DNS-PKI
 
 
 2. Build an open source VPS hosting server architecture model in order to offer VPS hosting with shared IPs, management interface secured with authenticator and recovery interface secured with emails and/or phone numbers
