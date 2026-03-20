@@ -28,7 +28,7 @@ https://mantellapical.blogspot.com/2025/12/rfc-08032022.html
 3. Build an open source streaming platform with real number of views which remunerates content creators, the number of views will only be accessible to content creators for their content.
 
 
-4. Build a liberal decentralized and collaborative open source search engine model without discriminatory blacklist
+4. Build a liberal decentralized and collaborative open source search engine without discriminatory blacklist
 
 
 5. Build exploits based on security red flags which allows to shutdown the television network
