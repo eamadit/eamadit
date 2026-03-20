@@ -52,5 +52,3 @@ CAMILLE PLANAT
 https://youtube.com/@eamadit
 
 https://youtube.com/@mantellapical
-
-@eamaditdotcom on Telegram
