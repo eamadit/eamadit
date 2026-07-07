@@ -23,7 +23,7 @@ Software is not sold, it is shared because it is immaterial: it is knowledge. Us
 
 
 
-I am looking for angel investors for various projects regarding retail sale of Hardened Linux Slackware (https://eamadit.blogspot.com/2026/04/eamadit-hardened-slackware-15.html), FreeBSD and Linux Mint clients, electromagnetic emanations counterintelligence, free open source PLM, free open source GNURadio-driven RHIC-EDOM for porn AI and personal development, antigravity flying vehicles, conversion of combustion engines to hydrogen, overunity self-powered generators and industrial alchemical gold, silver and copper production.
+I am looking for angel investors for various projects regarding retail sale of Hardened Linux Slackware (https://eamadit.blogspot.com/2026/04/eamadit-hardened-slackware-15.html), FreeBSD and Linux Mint clients, electromagnetic emanations counterintelligence, free open source PLM, free open source GNURadio-driven RHIC-EDOM for porn AI and personal development, Wardenclyffe towers-powered Biefeld-Brown effect flying vehicles, conversion of combustion engines to hydrogen, shielded Minato/Milagre generators with obfuscated spatial magnetic signature and obfuscated main frequency, industrial alchemical gold, silver and copper production.
 
 
 
