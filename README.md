@@ -43,7 +43,7 @@ https://github.com/eamadit/Real-world-DNS-PKI
 
 
 
-Build an open source streaming platform with polemic index, hype index, trend index, etc., real number of views which remunerates content creators who can either hide or display the number of views and enable/disable cheat mode
+Build an open source streaming platform with polemic index, hype index, trend index, etc., real number of views which remunerates content creators who can display, hide or fake the views counter
 
 
 
