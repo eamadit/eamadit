@@ -3,7 +3,7 @@ I am an entrepreneur, environmentalist, privacy activist and researcher.
 
 
 
-I founded a business called Eamadit in 2015.
+I founded a business called Eamadit in 2015 in the Philippines.
 
 
 
@@ -23,7 +23,7 @@ Software is not sold, it is shared because it is immaterial: it is knowledge. Us
 
 
 
-I am looking for angel investors for various projects regarding retail sale of Hardened Linux Slackware (https://eamadit.blogspot.com/2026/04/eamadit-hardened-slackware-15.html), FreeBSD and Linux Mint clients, electromagnetic emanations counterintelligence, free open source PLM, free open source GNURadio-driven RHIC-EDOM for porn AI and personal development, Wardenclyffe towers-powered Biefeld-Brown effect flying vehicles, conversion of combustion engines to hydrogen, shielded Minato/Milagre generators with obfuscated spatial magnetic signature and obfuscated main frequency, industrial alchemical gold, silver and copper production.
+I am looking for angel investors for various projects regarding retail sale of Hardened Linux Slackware (https://eamadit.blogspot.com/2026/04/eamadit-hardened-slackware-15.html), FreeBSD and Linux Mint clients, electromagnetic emanations counterintelligence, free open source PLM, free open source GNURadio-driven RHIC-EDOM for porn AI and personal development, Wardenclyffe towers-powered Biefeld-Brown effect flying vehicles, conversion of combustion engines to hydrogen, shielded strictly mechanical Minato/Milagre generators with obfuscated spatial magnetic signature and obfuscated main frequency, industrial alchemical gold, silver and copper production.
 
 
 
@@ -33,7 +33,7 @@ I would also like to find collaborators for the following projects:
 
 
 
-Build a new open source decentralized and collaborative non-pyramidal DNS PKI model based on Wireguard:
+Build a new open source decentralized and collaborative non-pyramidal DNS PKI model with Wireguard:
 
 
 
@@ -48,7 +48,7 @@ Build an open source streaming platform with polemic index, hype index, trend in
 
 
 
-Build a liberal decentralized and collaborative open source search engine without discriminatory blacklist
+Build a liberal decentralized and collaborative open source search engine with optional blacklist
 
 
 
@@ -58,11 +58,19 @@ Build an open source incorruptible views/listenings counter for streaming platfo
 
 
 
-Contact me on info@eamdit.com or @camilleplanat on Telegram.
+Contact me on info@eamadit.com or @camilleplanat on Telegram.
 
 
 
 
 https://youtube.com/@eamadit
+
+
+
+
 https://youtube.com/@mantellapical
+
+
+
+
 https://www.linkedin.com/company/eamadit
