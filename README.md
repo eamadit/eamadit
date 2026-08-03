@@ -74,3 +74,8 @@ https://youtube.com/@mantellapical
 
 
 https://www.linkedin.com/company/eamadit
+
+
+
+
+https://web.archive.org/web/20260803010610/https://github.com/eamadit
