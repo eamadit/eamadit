@@ -23,7 +23,8 @@ Software is not sold, it is shared because it is immaterial: it is knowledge. Us
 
 
 
-I am looking for angel investors for various projects regarding retail sale of Hardened Linux Slackware (https://eamadit.blogspot.com/2026/04/eamadit-hardened-slackware-15.html), FreeBSD and Linux Mint clients, electromagnetic emanations counterintelligence, free open source PLM, free open source GNURadio-driven RHIC-EDOM for porn AI and personal development, Wardenclyffe towers-powered Biefeld-Brown effect flying vehicles, conversion of combustion engines to hydrogen, shielded strictly mechanical Minato/Milagre generators with obfuscated spatial magnetic signature and obfuscated main frequency, industrial alchemical gold, silver and copper production.
+I am looking for angel investors for various projects regarding retail sale of Hardened Linux Slackware (https://mantellapical.blogspot.com/2026/11/eamadit-hardened-slackware-15.html), FreeBSD and Linux Mint clients, acoustic and electromagnetic eavesdropping counterintelligence, free open source GNURadio-driven non-invasive cochlear bypass (electrophonic effect) and visual cortex bypass immersive UX (User eXperience), Wardenclyffe towers-powered Biefeld-Brown effect flying vehicles, conversion of combustion engines to hydrogen, shielded over-unit highly efficient magnetic field energy harvesters with obfuscated spatial EM signatures, industrial alchemical gold, silver and copper production.
+
 
 
 
@@ -53,11 +54,6 @@ Build a liberal decentralized and collaborative open source search engine with o
 
 
 
-Build an open source incorruptible views/listenings counter for streaming platforms and web pages
-
-
-
-
 Contact me on info@eamadit.com or @camilleplanat on Telegram.
 
 
@@ -73,9 +69,4 @@ https://youtube.com/@mantellapical
 
 
 
-https://www.linkedin.com/company/eamadit
-
-
-
-
-https://web.archive.org/web/20260803010610/https://github.com/eamadit
+https://mantellapical.blogspot.com
