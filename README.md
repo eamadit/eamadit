@@ -49,11 +49,6 @@ Build an open source streaming platform with polemic index, hype index, trend in
 
 
 
-Build a liberal decentralized and collaborative open source search engine with optional blacklist
-
-
-
-
 Contact me on info@eamadit.com or @camilleplanat on Telegram.
 
 
